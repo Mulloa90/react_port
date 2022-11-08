@@ -21,24 +21,19 @@ h1 {
 
 .nav {
   overflow: hidden;
+  height: 50px;
 }
 
 .nav ul {
   padding: 0;
   margin: 0;
-  text-align: right;
-  height: 40px;
-
-}
-
-.nav li {
-  display: inline-block;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .nav a {
-  float: left;
   color: black;
-  text-align: center;
   padding: 14px 12px;
   text-decoration: none;
   font-size: 22px;
