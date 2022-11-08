@@ -158,7 +158,7 @@ p {
   justify-content: space-evenly;
 }
 
-.contact ul {
+.footer ul {
   padding: 0;
   margin: 0;
   text-align: right;
@@ -166,7 +166,7 @@ p {
 }
 
 
-.contact li {
+.footer li {
   list-style: none;
   text-align: right;
   display: inline-table;

@@ -3,7 +3,7 @@ import {BsFillBriefcaseFill} from 'react-icons/bs';
 import {FaUserAlt, FaEnvelope} from 'react-icons/fa';
 function Navbar() {
     return (
-     <div> <nav class="nav">
+     <div> <nav className='nav'>
      <ul>
          
          <li><a href="#aboutme"><FaUserAlt/> About Me</a></li>
