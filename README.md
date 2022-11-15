@@ -12,8 +12,7 @@ This page requires mpm start in the terminal
 <h2>Credits:</h2>
 w3schools.com Udemy.com Youtube.com MDN.
 <h2>Features:</h2>
-Html, CSS, Javascript, node packages, mongoose, graphql 
+Html, CSS, Javascript, node packages, react 
 
 
 
-![Screen Shot 2022-11-14 at 8 38 28 PM](https://user-images.githubusercontent.com/102636855/201828403-ed69ce20-fca5-4d43-99b0-61d25dd1a9a7.png)
