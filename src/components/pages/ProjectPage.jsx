@@ -23,6 +23,7 @@ function Project() {
                 alt="fanpage"/></a></li>
             <li><a href="https://github.com/kentshaffer/Project-2"><img class="image6" src={p2}
                 alt="fanpage"/></a></li>
+            
             <li><a href="https://github.com/CMolitor96/instacook"><img class="image6" src={insta}
                 alt="fanpage"/></a></li>
         </ul>
