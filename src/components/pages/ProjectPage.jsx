@@ -3,7 +3,7 @@ import panda from '../../assets/panda.png'
 import box from '../../assets/box.png'
 import ADVNTR from '../../assets/ADVNTR.png'
 import p2 from '../../assets/project-2 pic.png'
-
+import insta from '../../assets/Instacook.png'
 
 function Project() {
     return (
@@ -22,6 +22,9 @@ function Project() {
             <li><a href="https://mulloa90.github.io/project-1/"><img class="image6" src={ADVNTR}
                 alt="fanpage"/></a></li>
             <li><a href="https://github.com/kentshaffer/Project-2"><img class="image6" src={p2}
+                alt="fanpage"/></a></li>
+            
+            <li><a href="https://github.com/CMolitor96/instacook"><img class="image6" src={insta}
                 alt="fanpage"/></a></li>
         </ul>
 
